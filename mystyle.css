@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+html, body {
+  height: 100%;
+  width:100%;
+  margin: 0;
+  padding: 0;
+font-family: poppins;
+}
+
+.header{
+	width:100%;
+	background-color:#AAAEBA;
+}
+
+.navigationbar{
+	padding-top: 70px;
+	padding-left: 0px;
+  padding-right: 80px;
+}
+
+.links{
+	text-align: left;
+	padding-left: 20px;
+  padding-right: 20px;
+	font-size:16px;
+}
+
+.logo{
+	padding-left:10px;
+}
+
+.content{
+	background-color:#DBE4E3;
+	width:100%;
+	text-align:center;
+	padding-top:100px;
+	padding-bottom:100px;
+	
+}
+
+.name{
+	padding-bottom:10px;
+	padding-top:10px;
+	font-size:30px;
+	font-weight: bold;
+}
+
+.introduction{
+    font-size: 16px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.viewmyworks{
+	background-color: #9e8a7c;
+  border: none;
+  height: 50px;
+  width: 250px;
+  padding: 0px 10px;
+  text-align: center;
+  cursor: pointer;
+	  display: inline-block;
+  margin-bottom: 25px;
+  margin-top: 15px;
+  font-weight: bold;
+  font-family:Poppins;
+}
